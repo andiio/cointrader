@@ -44,3 +44,18 @@ Modular Strategy Architecture
 - Calculate net profit.
 - Save strategy settings and log of all orders.
 - Some kind of automation to tweak settings and re-run strategy.
+
+Trading Strategies
+------------------
+
+### General Info
+
+Goomboo advice: https://bitcointalk.org/index.php?topic=60501
+
+### Exponential Moving Average
+
+
+
+### Turtle
+
+http://bigpicture.typepad.com/comments/files/turtlerules.pdf
